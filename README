@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2616
+
+This colorscheme defines gui and 16-color terminal settings.  For 88 or 256-color terminals, use CSApprox.vim (vimscript #2390).
